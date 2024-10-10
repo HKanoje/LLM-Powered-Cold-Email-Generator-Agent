@@ -9,9 +9,6 @@ This Agent is designed for job applicants to generate cold emails using Groq, La
 
 ![img.png](imgs/img.png)
 
-## Architecture Diagram
-![img.png](imgs/architecture.png)
-
 ## Setup Instructions
 1. First, obtain an API key from [Groq Console](https://console.groq.com/keys) and update the `GROQ_API_KEY` value in the `app/.env` file with your key.
 
